@@ -1,4 +1,5 @@
-# Airbnb_mining
+# Airbnb_mining 
+created by Tom Cohen and Roman Rosh
 a data scraping program for airbnb
 
 note that the name of the classes used change regularly on airbnb , so you should change them according to the latest airbnb website update.
